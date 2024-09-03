@@ -1,4 +1,4 @@
-Final exam work
+Database Specialist final exam work.
 
 Student name:
 Gábor Kinces
