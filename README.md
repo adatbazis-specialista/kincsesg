@@ -3,7 +3,7 @@
 
 **Student name:**
 
-Gábor Kinces
+Gábor Kincses
 
 
 **Short name of the chosen topic:**
