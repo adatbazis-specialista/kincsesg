@@ -1,22 +1,22 @@
-#Database Specialist final exam work.
+**Database Specialist final exam work.**
 
 
-##Student name:
+**Student name:**
 
 Gábor Kinces
 
 
-##Short name of the chosen topic:
+**Short name of the chosen topic:**
 
 Airport
 
 
-##Text description of the topic:
+**Text description of the topic:**
 
 The database-based application manages the administration of an airport, from the passenger's baggage check-in, through the selection of the seat on the flight, until the seat is occupied by the passenger.
 
 
-##Some key ideas:
+**Some key ideas:**
 
 • The passenger can choose between available seats in a given class of a given flight (e.g. next to a window, in a non-smoking area, etc.).
 
